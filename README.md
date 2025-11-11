@@ -1,2 +1,1 @@
-# Variables-in-Python
-
+print("hi")
